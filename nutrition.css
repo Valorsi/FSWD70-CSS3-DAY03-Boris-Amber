@@ -68,3 +68,7 @@ li{
 #bor1{
 	border-bottom: 2px;
 }
+
+.small {
+	font-size: 9px;
+}
