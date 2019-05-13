@@ -1,5 +1,7 @@
-table{
+body{
 	width: 350px;
+	border: 1px solid black;
+	padding: 5px;
 }
 
 tr{
@@ -10,8 +12,20 @@ tr{
 th{
 	font-weight: normal;
 	text-align: left;
+	width: 230px;
 }
 
 .th1{
 	font-weight: bold;
+}
+
+.td1{
+	font-weight: bold;
+}
+
+.thick{
+	height: 5px;
+	color: black;
+	padding: 0%;
+	background-color: black;
 }
