@@ -1,0 +1,17 @@
+table{
+	width: 350px;
+}
+
+tr{
+	text-align: right;
+	font-weight: normal;
+}
+
+th{
+	font-weight: normal;
+	text-align: left;
+}
+
+.th1{
+	font-weight: bold;
+}
