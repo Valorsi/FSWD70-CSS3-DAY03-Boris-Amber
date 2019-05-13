@@ -2,6 +2,11 @@ body{
 	width: 350px;
 	border: 1px solid black;
 	padding: 5px;
+	font-family: "segoe";
+}
+
+h1{
+
 }
 
 tr{
@@ -13,6 +18,14 @@ th{
 	font-weight: normal;
 	text-align: left;
 	width: 230px;
+}
+
+td{
+	width: 60px;
+}
+
+th, td{
+	border-bottom: 1px solid black;
 }
 
 .th1{
