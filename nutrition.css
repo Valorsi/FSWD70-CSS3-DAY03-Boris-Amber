@@ -56,3 +56,15 @@ li{
 .dont{
 	border-bottom: 0px;
 }
+
+#bor3{
+	border-bottom: 4px;
+}
+
+#bor2{
+	border-bottom: 3px;
+}
+
+#bor1{
+	border-bottom: 2px;
+}
