@@ -46,10 +46,13 @@ th, td{
 }
 
 .shove{
-	border-bottom: 0px;
-	margin-left: 10px;
+	padding-left: 15px;
 }
 
 li{
 	display: inline;
+}
+
+.dont{
+	border-bottom: 0px;
 }
