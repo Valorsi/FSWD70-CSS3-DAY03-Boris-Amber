@@ -21,10 +21,27 @@ th, td{
 
 .flex{
 	display: flex ;
-	justify-content: flex-end;
+	flex-direction: row;
+	flex-wrap: wrap;
 }
 
+p{
+	width: 50px;
+	margin-bottom: 0px;
+	border-bottom-style: solid;
+
+}
 .left{
 	display: flex;
 	align-self: flex-start;
+	width: 250px;
+	border-bottom-style: solid;
+	
+}
+
+.daily {
+	width: 350px;
+	display: flex;
+	justify-content: flex-end ;
+	flex-direction: row;
 }
